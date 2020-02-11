@@ -6,35 +6,35 @@
           <router-link
             :to="{ name: 'home' }"
           >
-            Home
+            {{ $t('nav.home') }}
           </router-link>
         </li>
         <li>
           <router-link
             :to="{ name: 'movies' }"
           >
-            Movies
+            {{ $t('nav.movies') }}
           </router-link>
         </li>
         <li>
           <router-link
             :to="{ name: 'series' }"
           >
-            Series
+            {{ $t('nav.series') }}
           </router-link>
         </li>
         <li>
           <router-link
             :to="{ name: 'animes' }"
           >
-            Animes
+            {{ $t('nav.animes') }}
           </router-link>
         </li>
         <li>
           <router-link
             :to="{ name: 'aboutus' }"
           >
-            About Us
+            {{ $t('nav.aboutus') }}
           </router-link>
         </li>
       </ul>
