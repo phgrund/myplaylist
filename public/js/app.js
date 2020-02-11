@@ -38179,7 +38179,7 @@ __webpack_require__.r(__webpack_exports__);
 
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_i18n__WEBPACK_IMPORTED_MODULE_1__["default"]);
 var messages = {
-  'en-us': {
+  'pt-br': {
     nav: {
       home: 'Página Inicial',
       movies: 'Filmes',
@@ -38188,7 +38188,7 @@ var messages = {
       aboutus: 'Sobre nós'
     }
   },
-  'pt-br': {
+  'en-us': {
     nav: {
       home: 'Home',
       movies: 'Movies',

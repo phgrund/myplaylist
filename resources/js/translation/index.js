@@ -4,7 +4,7 @@ import VueI18n from 'vue-i18n';
 Vue.use(VueI18n);
 
 const messages = {
-  'en-us': {
+  'pt-br': {
     nav: {
       home: 'Página Inicial',
       movies: 'Filmes',
@@ -13,7 +13,7 @@ const messages = {
       aboutus: 'Sobre nós',
     }
   },
-  'pt-br': {
+  'en-us': {
     nav: {
       home: 'Home',
       movies: 'Movies',
