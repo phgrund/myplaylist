@@ -38199,7 +38199,7 @@ var messages = {
   }
 };
 /* harmony default export */ __webpack_exports__["default"] = (new vue_i18n__WEBPACK_IMPORTED_MODULE_1__["default"]({
-  locale: 'en',
+  locale: 'en-us',
   messages: messages
 }));
 
