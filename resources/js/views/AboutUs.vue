@@ -23,6 +23,10 @@ export default {
     margin-bottom: 20px;
   }
 
+  img::selection {
+    color: transparent;
+  }
+
   h2 {
     margin-bottom: 5px;
   }

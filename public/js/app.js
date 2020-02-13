@@ -2095,7 +2095,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, "\n.app {\n  min-height: 100vh;\n  background-color: #002863;\n  color: #fff;\n}\n.container {\n  padding: 20px;\n}\n", ""]);
+exports.push([module.i, "\n.app {\n  min-height: 100vh;\n  background-color: #002863;\n  color: #fff;\n}\n.container {\n  padding: 20px;\n}\np::-moz-selection, h1::-moz-selection, h2::-moz-selection, h3::-moz-selection, h4::-moz-selection {\n  background-color: rgba(255, 255, 255, 0.1);\n}\np::selection,\nh1::selection,\nh2::selection,\nh3::selection,\nh4::selection {\n  background-color: rgba(255, 255, 255, 0.1);\n}\n", ""]);
 
 // exports
 
@@ -2133,7 +2133,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\nmain[data-v-5d5795bc] {\n  text-align: center;\n}\nimg[data-v-5d5795bc] {\n  max-width: 300px;\n  border-radius: 50%;\n  margin-bottom: 20px;\n}\nh2[data-v-5d5795bc] {\n  margin-bottom: 5px;\n}\n", ""]);
+exports.push([module.i, "\nmain[data-v-5d5795bc] {\n  text-align: center;\n}\nimg[data-v-5d5795bc] {\n  max-width: 300px;\n  border-radius: 50%;\n  margin-bottom: 20px;\n}\nimg[data-v-5d5795bc]::-moz-selection {\n  color: transparent;\n}\nimg[data-v-5d5795bc]::selection {\n  color: transparent;\n}\nh2[data-v-5d5795bc] {\n  margin-bottom: 5px;\n}\n", ""]);
 
 // exports
 

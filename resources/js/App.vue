@@ -24,7 +24,16 @@ export default {
     background-color: #002863;
     color: #fff;
   }
+
   .container {
     padding: 20px;
+  }
+
+  p::selection,
+  h1::selection,
+  h2::selection,
+  h3::selection,
+  h4::selection {
+    background-color: rgba(255, 255, 255, 0.1);
   }
 </style>
