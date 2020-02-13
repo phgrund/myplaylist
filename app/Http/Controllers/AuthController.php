@@ -29,7 +29,7 @@ class AuthController extends Controller
             return response()->json(['error' => 'Unauthorized'], 401);
         }
 
-        return $this->json(compact('token'));
+        return compact('token');
     }
 
     /**
