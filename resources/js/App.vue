@@ -19,6 +19,11 @@ export default {
 </script>
 
 <style>
+  @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+  html {
+    
+  }
+
   .app {
     min-height: 100vh;
     background-color: #fff;
