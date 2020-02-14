@@ -21,8 +21,8 @@ export default {
 <style>
   .app {
     min-height: 100vh;
-    background-color: #002863;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
   }
 
   .container {

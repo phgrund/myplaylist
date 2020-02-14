@@ -45,8 +45,7 @@
 <style scoped>
   nav {
     width: 100%;
-    background-color: #00265f;
-    background-image: linear-gradient(to right, #001f4d , transparent 300px);
+    background-color: #0066ff;
     position: relative;
   }
 
@@ -58,7 +57,7 @@
     display: inline-block;
     font-size: 22px;
     font-weight: bold;
-    color: #0067ff;
+    color: #fff;
     padding: 10px 10px 10px 10px;
   }
 

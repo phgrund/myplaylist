@@ -2095,7 +2095,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, "\n.app {\n  min-height: 100vh;\n  background-color: #002863;\n  color: #fff;\n}\n.container {\n  padding: 20px;\n}\np::-moz-selection, h1::-moz-selection, h2::-moz-selection, h3::-moz-selection, h4::-moz-selection {\n  background-color: rgba(255, 255, 255, 0.1);\n}\np::selection,\nh1::selection,\nh2::selection,\nh3::selection,\nh4::selection {\n  background-color: rgba(255, 255, 255, 0.1);\n}\n", ""]);
+exports.push([module.i, "\n.app {\n  min-height: 100vh;\n  background-color: #fff;\n  color: #000;\n}\n.container {\n  padding: 20px;\n}\np::-moz-selection, h1::-moz-selection, h2::-moz-selection, h3::-moz-selection, h4::-moz-selection {\n  background-color: rgba(255, 255, 255, 0.1);\n}\np::selection,\nh1::selection,\nh2::selection,\nh3::selection,\nh4::selection {\n  background-color: rgba(255, 255, 255, 0.1);\n}\n", ""]);
 
 // exports
 
@@ -2114,7 +2114,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\nnav[data-v-6dde423b] {\n  width: 100%;\n  background-color: #00265f;\n  background-image: linear-gradient(to right, #001f4d , transparent 300px);\n  position: relative;\n}\n.nav-header[data-v-6dde423b] {\n  display: inline;\n}\nnav > .nav-header > .nav-title[data-v-6dde423b] {\n  display: inline-block;\n  font-size: 22px;\n  font-weight: bold;\n  color: #0067ff;\n  padding: 10px 10px 10px 10px;\n}\nnav > .nav-links[data-v-6dde423b] {\n  float: right;\n  font-size: 18px;\n}\nnav > .nav-links > a[data-v-6dde423b] {\n  display: inline-block;\n  padding: 13px 10px 13px 10px;\n  text-decoration: none;\n  color: #efefef;\n  transition: 0.5s background-color;\n}\nnav > .nav-links > a[data-v-6dde423b]:hover {\n  background-color: rgba(255, 255, 255, 0.05);\n}\n\n", ""]);
+exports.push([module.i, "\nnav[data-v-6dde423b] {\n  width: 100%;\n  background-color: #0066ff;\n  position: relative;\n}\n.nav-header[data-v-6dde423b] {\n  display: inline;\n}\nnav > .nav-header > .nav-title[data-v-6dde423b] {\n  display: inline-block;\n  font-size: 22px;\n  font-weight: bold;\n  color: #fff;\n  padding: 10px 10px 10px 10px;\n}\nnav > .nav-links[data-v-6dde423b] {\n  float: right;\n  font-size: 18px;\n}\nnav > .nav-links > a[data-v-6dde423b] {\n  display: inline-block;\n  padding: 13px 10px 13px 10px;\n  text-decoration: none;\n  color: #efefef;\n  transition: 0.5s background-color;\n}\nnav > .nav-links > a[data-v-6dde423b]:hover {\n  background-color: rgba(255, 255, 255, 0.05);\n}\n\n", ""]);
 
 // exports
 
